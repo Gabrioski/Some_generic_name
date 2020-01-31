@@ -1,13 +1,13 @@
 #Import statements
 from Classes import *
-from Function import *
-
+from Functions import *
 
 
 def main():
-  #Main function, entrypoint:
-  pass
+    #Main function, entrypoint:
+    print("Hello")
 
 
 if __name__ == "__main__":
-  main()
+    main()
+
