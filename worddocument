@@ -1,0 +1,43 @@
+1) Prisoner and it involves time travel
+2) Real time text shooter, far western
+3) Space Exploration (star control-eque)
+4) Arcade 
+5) Horror 
+6) Travelling Merchant/Pirate SPACE PIRATE
+7) Life Sim with a twist
+
+
+#Gameplay elements
+- Combat system that is text-based.
+- Inventory system (pick up and use items)
+- Locked doors (unnaccessible location)
+- Dialogue
+- Trade system
+
+#Alternative Gameplay
+-Cannot go back into areas due to either you're moving on or something following you.
+-Need to complete something to move on to next area?
+-Maze-like feature.1
+-Areas change when you go back to them.
+-No locked areas 
+-No Dialogue
+-No combat/unique combat system (undertale-esque)
+-Limited inventory (hands, no backpack)
+-Find items that convey the items
+
+#Agreed Gameplay
+- Dialogue
+- Cannot go back into areas due to either you're moving on or something following you.
+- Need to complete something to move on to next area?
+- Areas change when you go back to them.
+
+
+#Gameplay Design elements
+- Planets 
+- Space stations
+- Locations such as planets or space stations are like nodes and space-travel with dynamic encounters are the edges.
+- In these dynamic encounters: 
+    1) Encounter different types Enemies: Enemy Pirates, Space Police (Inspection or fight), 
+    2) Abandoned Spaceship (Explore it expending fuel, ignore)
+    3) Wormhole (go in/get teleported/find something interesting/damage, ignore)
+    3) Debris/stray-shots from a battle cause damage.

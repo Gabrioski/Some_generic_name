@@ -1,0 +1,11 @@
+Version 1
+
+Added:
+    Movement functionality to player class
+    Placeholder starting location
+    Request for player's name and initialization of player
+    Started movement system
+    Added functionlity to change description to Location class
+    Added comments
+    Started working on combat system 
+    Fixed Wordgen bug that would not let long words be generated 
